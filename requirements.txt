@@ -1,0 +1,10 @@
+Django~=2.0.6
+django-admin.py is a script that will create the directories and files for you
+
+manage.py is a script that helps with management of the site.
+
+settings.py file contains the configuration of your website.
+
+urls.py file contains a list of patterns used by urlresolver
+
+Models – this is a place in which we will define our blog post.
